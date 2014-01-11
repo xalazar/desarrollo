@@ -1,0 +1,15 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background: #ccc;
+	font-family: arial,helvetica,sans-serif;
+	color: #fff;
+	font-size: 3em;
+}
+
+h1{
+	background: #ccc;
+}
